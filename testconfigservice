@@ -1,0 +1,1 @@
+Connection : Server=(localdb)\\mssqllocaldb;Database=SchedulerDb;Trusted_Connection=True;MultipleActiveResultSets=true
